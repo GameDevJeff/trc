@@ -1,0 +1,15 @@
+#todo
+{
+    table-layout: fixed;
+    width: 500px;
+}
+
+.row
+{
+    background-color: #ced4ff; 
+}
+
+.row td
+{
+    border: 1px solid black;
+}
