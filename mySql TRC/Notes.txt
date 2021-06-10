@@ -1,0 +1,3 @@
+Couple of things, this is written in mySQl 8.
+Also these is an error on the Task Doc, the sql task 2, example table has "Caslista" but in table she had a managerID of 22 not 2. So not sure of an error.
+Also "Margo" doesn't have a managerID, not sure if that is an error.
